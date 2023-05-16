@@ -1,0 +1,11 @@
+/* bacckground på sign in*/
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(bilder/background.jfif);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+
+}

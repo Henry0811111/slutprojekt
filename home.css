@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+min-height: 100vh;
+width: 100%;
+/* background-image: linear-gradient(rbga (2,9,30,0.7), rbga (2,9,30,0.7)),url(bilder/background.jfif); */
+/* background-image: url(bilder/background.jfif); */
+background-position: center;
+background-size: cover;
+position: relative;
+
+}
+
+#header{
+    display: flexbox;
+    justify-content: center;
+    align-items: flex-start;
+    background-image: url(bilder/nya\ tesla\ model\ s.jpg);
+    background-position: center;
+    background-size: cover  ;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    width: 100%;
+    height: 100%;
+    
+
+}
+.Logo {
+    height: 100px;
+    
+}
+.iteam-1{
+text-align: center;
+color: black;
+}
+.iteam-2{}
+.iteam-3{}
+.iteam-4{}
+/* .iteam-1{} */
