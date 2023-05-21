@@ -47,7 +47,7 @@ header{
     border-radius: 30px;
     color: black;
     padding: 0 0 0 45px;
-    background: rgba(red, green, blue, 0.1);
+    /* background: rgba(red, green, blue,alpha ); */
 }
 i{
     position: relative;
@@ -64,7 +64,7 @@ i{
     height: 45px;
     outline: none;
     width: 100%;
-    background: rgba(red, green, blue, 0.7);
+    /* background: rgba(red, green, blue, alpha); */
     cursor: pointer;
     transition: .3s;
 }
